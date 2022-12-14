@@ -1,0 +1,31 @@
+sex,age,education,job_title,salary
+M,52,Middle,Specialist,9000
+M,35,Middle,Specialist,10500
+M,18,Secondary technical,Dependent,8500
+M,48,Higher,Supervisor,18000
+M,50,Higher,Specialist,13000
+M,38,Secondary technical,Supervisor,17000
+M,43,Middle,Worker,13000
+M,24,Middle,Worker,14000
+M,49,Middle,Dependent,15000
+M,35,Higher,Specialist,14000
+M,33,Higher,Supervisor,16000
+M,30,Middle,Worker,12000
+M,37,Higher,Dependent,11000
+F,20,Secondary technical,Worker,9000
+F,39,Middle,Supervisor,17000
+F,25,Secondary technical,Specialist,12000
+F,32,Middle,Worker,10000
+F,23,Secondary technical,Dependent,9000
+F,40,Higher,Supervisor,19500
+F,23,Secondary technical,Dependent,7000
+F,28,Middle,Dependent,8500
+F,37,Middle,Worker,11000
+F,22,Higher,Worker,13000
+F,25,Higher,Dependent,7000
+F,45,Middle,Supervisor,17000
+F,43,Middle,Specialist,15000
+F,20,Higher,Worker,9000
+F,21,Secondary technical,Worker,10000
+F,32,Higher,Specialist,15000
+F,33,Middle,Specialist,13000
